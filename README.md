@@ -17,51 +17,119 @@
 ***<p align = left></p>***
 <!--END_SECTION:WORK-->
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/LakruwanJ/LakruwanJ/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+## Languages and Tools  
 <!--START_SECTION:SKILL-->
-## <p align = center> 🖥️ 	Tech Stack </p>
-<div align = center>
-<img src="https://img.shields.io/badge/c-%23555555.svg?style=flat&logo=c&logoColor=white" alt=c /> &ensp;
-<img src="https://img.shields.io/badge/c++-%23f34b7d.svg?style=flat&logo=cplusplus&logoColor=white" alt=c++ /> &ensp;
-<img src="https://img.shields.io/badge/css3-%23563d7c.svg?style=flat&logo=css3&logoColor=white" alt=css3 /> &ensp;
-<img src="https://img.shields.io/badge/html5-%23e34c26.svg?style=flat&logo=html5&logoColor=white" alt=html5 /> &ensp;
-<img src="https://img.shields.io/badge/java-%23b07219.svg?style=flat&logo=java&logoColor=white" alt=java /> &ensp;
-<img src="https://img.shields.io/badge/javascript-%23f1e05a.svg?style=flat&logo=javascript&logoColor=white" alt=javascript /> &ensp;
-<img src="https://img.shields.io/badge/kotlin-%23A97BFF.svg?style=flat&logo=kotlin&logoColor=white" alt=kotlin /> &ensp;
-<img src="https://img.shields.io/badge/latex-%23333333.svg?style=flat&logo=latex&logoColor=white" alt=latex /> &ensp;
-<img src="https://img.shields.io/badge/php-%234F5D95.svg?style=flat&logo=php&logoColor=white" alt=php /> &ensp;
-<img src="https://img.shields.io/badge/python-%233572A5.svg?style=flat&logo=python&logoColor=white" alt=python /> &ensp;
-<img src="https://img.shields.io/badge/typescript-%233178c6.svg?style=flat&logo=typescript&logoColor=white" alt=typescript /> &ensp;
-<img src="https://img.shields.io/badge/react-%2361dbfb.svg?style=flat&logo=react&logoColor=white" alt=react /> &ensp;
-<img src="https://img.shields.io/badge/bootstrap-%23553c7b.svg?style=flat&logo=bootstrap&logoColor=white" alt=bootstrap /> &ensp;
-<img src="https://img.shields.io/badge/tailwindcss-%233fb3e0.svg?style=flat&logo=tailwindcss&logoColor=white" alt=tailwindcss /> &ensp;
-<img src="https://img.shields.io/badge/node.js-%233c873a.svg?style=flat&logo=node.js&logoColor=white" alt=node.js /> &ensp;
-<img src="https://img.shields.io/badge/express-%23626361.svg?style=flat&logo=express&logoColor=white" alt=express /> &ensp;
-<img src="https://img.shields.io/badge/android-%2332DE84.svg?style=flat&logo=android&logoColor=white" alt=android /> &ensp;
-<img src="https://img.shields.io/badge/tensorflow-%23FFA800.svg?style=flat&logo=tensorflow&logoColor=white" alt=tensorflow /> &ensp;
-<img src="https://img.shields.io/badge/pandas-%230b0638.svg?style=flat&logo=pandas&logoColor=white" alt=pandas /> &ensp;
-<img src="https://img.shields.io/badge/opencv-%233bbd2d.svg?style=flat&logo=opencv&logoColor=white" alt=opencv /> &ensp;
-<img src="https://img.shields.io/badge/mongodb-%234db33d.svg?style=flat&logo=mongodb&logoColor=white" alt=mongodb /> &ensp;
-<img src="https://img.shields.io/badge/mysql-%2300758f.svg?style=flat&logo=mysql&logoColor=white" alt=mysql /> &ensp;
-<img src="https://img.shields.io/badge/docker-%23384d54.svg?style=flat&logo=docker&logoColor=white" alt=docker /> &ensp;
-<img src="https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white" alt=django /> &ensp;
-<img src="https://img.shields.io/badge/linux-%23ffcc33.svg?style=flat&logo=linux&logoColor=white" alt=linux /> &ensp;
-<img src="https://img.shields.io/badge/git-%23f1502f.svg?style=flat&logo=git&logoColor=white" alt=git /> &ensp;
-<img src="https://img.shields.io/badge/arduino-%2300979C.svg?style=flat&logo=arduino&logoColor=white" alt=arduino /> &ensp;
-<img src="https://img.shields.io/badge/adobe illustrator-%23bfb034.svg?style=flat&logo=adobe illustrator&logoColor=white" alt=adobe illustrator /> &ensp;
-<img src="https://img.shields.io/badge/adobe photoshop-%2318152E.svg?style=flat&logo=adobe photoshop&logoColor=white" alt=adobe photoshop /> &ensp;
-<img src="https://img.shields.io/badge/figma-%2300d47b.svg?style=flat&logo=figma&logoColor=white" alt=figma /> &ensp;
-<img src="https://img.shields.io/badge/sketch-%23f9a52c.svg?style=flat&logo=sketch&logoColor=white" alt=sketch /> &ensp;
-<img src="https://img.shields.io/badge/postman-%23ef5b25.svg?style=flat&logo=postman&logoColor=white" alt=postman /> &ensp;
-<img src="https://img.shields.io/badge/canva-%236a3be4.svg?style=flat&logo=canva&logoColor=white" alt=canva /> &ensp;
+
+<div align="left">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+
+  <!-- Web Development -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+
+  <!-- Data Science & Machine Learning -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="seaborn logo" />
+
+  <!-- Development Tools & IDEs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" alt="atom logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo" />
+  
+  <!-- Graphic Design & Multimedia -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+  
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  
+  <!-- Other -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
 </div>
+
 <!--END_SECTION:SKILL--><br/>
 
+<br/>
 <!--START_SECTION:PROFILE-VIEWS-->
 <div align = "center">
     <img src = "https://komarev.com/ghpvc/?username=LakruwanJ&color=blue&style=flat" alt = "LakruwanJ"/> 
 </div>
 <!--END_SECTION:PROFILE-VIEWS--><br/>
 
+## Github Stats  
 <!--START_SECTION:README-STATS-->
 <div align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=LakruwanJ&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt = "LakruwanJ"/> 
