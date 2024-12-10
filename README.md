@@ -19,11 +19,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/LakruwanJ/LakruwanJ/output/snake.svg" alt="Snake animation" />
-
-###
-
-
 ## Languages and Tools  
 <!--START_SECTION:SKILL-->
 
